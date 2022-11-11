@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Select Restaurant</string>
+    <string name="second_fragment_label">Add restaurants</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="add">+</string>
+    <string name="save">Save</string>
+    <string name="enter_list_name">Enter Category</string>
+    <string name="add_new_restaurant">Add new restaurant</string>
+</resources>
