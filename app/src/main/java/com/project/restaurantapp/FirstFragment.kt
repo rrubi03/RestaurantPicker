@@ -25,7 +25,7 @@ class FirstFragment : Fragment() , RecyclerViewHomeClickListener{
     lateinit var restAdapter: RestAdapter
     private var selectedCategory: String = ""
     var editor : SharedPreferences.Editor? = null
-
+// BUTTONS AND LIST FUNCTIONS AND TEXT BLURB
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
